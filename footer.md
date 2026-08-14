@@ -1,0 +1,2 @@
+---
+*This repository serves as a permanent, version-controlled record of published intellectual property and its relationship to the INNERstanding methodology. All content is subject to the governance and provenance rules documented in `governance.md` and `canonical_index.md`.*
