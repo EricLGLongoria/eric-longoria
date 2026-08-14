@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this publication archive or extracted concepts in your work, please cite as follows:"
+title: "Eric Longoria — Public Authority Archive"
+type: dataset
+authors:
+  - family-names: Longoria
+    given-names: Eric
+    alias: LG
+version: 1.0.0
+abstract: >-
+  A chronological archive mapping published book chapters to the formalized INNERstanding methodology. 
+  Documents the evolution from narrative expression to structured framework architecture.
+keywords:
+  - innerstanding
+  - self-leadership
+  - conscious internal calibration
+  - author archive
+  - concept evolution
+  - operator identity
+  - pattern interruption
