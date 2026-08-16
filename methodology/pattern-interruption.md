@@ -1,9 +1,13 @@
 # Pattern Interruption
+
 **Status:** Public / Formalized  
-**Category:** Self-Leadership / Mechanical Bridge
+**Category:** Self-Leadership / Pattern Awareness
 
 ## Definition
-The deliberate act of creating space between a trigger and an automatic survival response. It occurs when the old loop becomes visible and is not automatically repeated.
+Pattern Interruption occurs when an automatic loop becomes visible and enough space is created for the familiar response to no longer continue unnoticed.
+
+## Core Language
+- "Pattern interruption occurs when the old loop becomes visible and is not automatically repeated."
 
 ## Function
-Acts as the mechanical bridge between trigger detection and conscious recalibration. Enables the shift from survival conditioning to deliberate operation.
+Creates an opportunity between recognizing a trigger or Inner Notification and automatically completing the familiar response. The purpose is not simply to stop a behavior. It is to make the pattern visible so a different direction becomes possible.
