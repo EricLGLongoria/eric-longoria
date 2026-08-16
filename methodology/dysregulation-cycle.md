@@ -1,12 +1,13 @@
 # Dysregulation Cycle
+
 **Status:** Public / Formalized  
-**Category:** Self-Leadership / Diagnostic Concept
+**Category:** Self-Leadership / Pattern Recognition
 
 ## Definition
-The process by which the nervous system adapts to repeated pressure, making familiar stress feel safer than unfamiliar calm. It explains why clients remain stuck in survival mode despite conscious desire for change.
+The Dysregulation Cycle describes how repeated pressure can become part of an internal baseline. When stress or chaos is repeatedly experienced, familiar responses and environments can begin to feel normal or familiar, allowing patterns to continue even when they no longer support the direction a person wants to move.
 
 ## Core Language
 - "If stress is repeated, stress feels normal. If chaos is repeated, chaos feels normal."
 
 ## Function
-Provides the physiological and psychological explanation for the "Why" behind survival responses and the necessity of deliberate recalibration.
+Provides context for why familiar patterns may continue returning even after they are consciously recognized. Within INNERstanding, the Dysregulation Cycle supports awareness of recurring pressure patterns without treating them as personal failures or automatic instructions to push harder.
