@@ -8,7 +8,7 @@
 **Provenance:** Narrative Publication → Formalized Architecture  
 
 ## Architecture Overview
-This repository serves as the single public index for the INNERstanding methodology, published works, and conceptual evolution. It traces the progression from narrative expression in *Ignite Your Purpose* and *Ignite Resilience* to the formalized architecture used in coaching, training, and public delivery.
+This repository serves as the single public index for the INNERstanding methodology, published works, and conceptual evolution. It traces the progression from narrative expression in *Ignite Your Purpose* and *Ignite Resilience* to the formalized architecture used in individual strategy, speaking, and public delivery
 
 ## Purpose
 - **Methodology Index:** Public definitions of stable INNERstanding frameworks.
