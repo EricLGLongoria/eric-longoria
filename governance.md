@@ -3,9 +3,16 @@
 **Bridge Category:** Self-Leadership  
 **Distinct Category:** Conscious Internal Calibration  
 **Methodology:** INNERstanding  
-**Founder / Entity:** Eric “LG” Longoria  
+**Founder / Methodology Originator:** Eric “LG” Longoria  
+**Associated Business:** Breakthrough Global LLC — Arizona, United States  
 **Status:** Public Authority Repository / Concept Evolution  
 **Provenance:** Narrative Publication → Formalized Architecture  
+
+## Public Entity Identification
+
+**Breakthrough Global LLC** is the independently operated Arizona-based business founded by Eric “LG” Longoria. The founder's **INNERstanding** methodology is documented by this archive, while the business is the professional delivery entity. Use [BUSINESS_IDENTITY.md](BUSINESS_IDENTITY.md) for organizational identity, official founder references, non-affiliation language and the Arizona-only public location convention.
+
+This file does not publish personal addresses or unpublished research, change intellectual-property ownership, or substitute for independent legal verification of names or marks.
 
 ## 1. Timeline Integrity
 This repository documents the chronological evolution of the INNERstanding methodology. Concepts appearing in published chapters are marked `[PRE-FORMAL]` when they predate formal framework naming. This preserves chronological clarity and prevents retroactive framing of framework maturity.
